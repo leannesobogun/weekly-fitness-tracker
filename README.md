@@ -177,3 +177,5 @@ Note: Press `Ctrl` + `C` to terminate the docker container
 
 ![homepage](https://i.ibb.co/687JsCR/homepage.png) 
 ![created habits](https://i.ibb.co/WnWpkpG/created-habits.png) ![incomplete&outofweek](https://i.ibb.co/gPwL73f/incomplete-outofweek.png) ![updated&complete](https://i.ibb.co/X3D2Lh0/updated-complete.png) !
+
+Follow this link to learn to deploy: https://www.mongodb.com/developer/how-to/use-atlas-on-heroku/
